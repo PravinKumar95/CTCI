@@ -1,0 +1,6 @@
+[book]
+authors = ["Pravin Kumar"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Cracking Coding Interview Problems in Rust"
