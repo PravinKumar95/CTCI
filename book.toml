@@ -2,5 +2,5 @@
 authors = ["Pravin Kumar"]
 language = "en"
 multilingual = false
-src = "src"
+src = "docs"
 title = "Cracking Coding Interview Problems in Rust"
